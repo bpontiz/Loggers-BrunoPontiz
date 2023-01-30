@@ -1,0 +1,4 @@
+[2023-01-30T15:19:16.122] [INFO] prod - Redirecting to /login with method GET.
+[2023-01-30T15:19:16.166] [WARN] prod - Cannot redirect to /public/styles.css with method GET because is not implemented.
+[2023-01-30T15:19:28.487] [WARN] prod - Cannot redirect to /loginn with method GET because is not implemented.
+[2023-01-30T15:19:59.353] [WARN] prod - Cannot redirect to /loginn with method GET because is not implemented.
