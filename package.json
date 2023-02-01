@@ -4,13 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "server": "nodemon server.js"
   },
   "keywords": [],
   "type": "module",
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "artillery": "^2.0.0-29",
     "bcrypt": "^5.1.0",
     "cluster": "^0.7.7",
     "compression": "^1.7.4",
@@ -25,5 +26,8 @@
     "passport": "^0.4.1",
     "passport-local": "^1.0.0",
     "pm2": "^5.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
   }
 }

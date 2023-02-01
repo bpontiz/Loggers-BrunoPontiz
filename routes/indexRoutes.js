@@ -135,13 +135,14 @@ apiRoutes.get('/api/randoms/:number', (req, res) => {
 
     console.log(calculation);
     
-    const forkCalculate = fork('/Users/bpont/Documents/Coderhouse/M4-Backend/LoggersGZIP-BrunoPontiz/calculate.js');
+    //! CONSIGNA : DESACTIVAR CHILD_PROCESS DE RUTA RANDOMS
+    // const forkCalculate = fork('/Users/bpont/Documents/Coderhouse/M4-Backend/LoggersGZIP-BrunoPontiz/calculate.js');
 
-    forkCalculate.send('start');
+    // forkCalculate.send('start');
 
-    forkCalculate.on('message', obj => {
-        res.send("Obj: ", obj);
-    })
+    // forkCalculate.on('message', obj => {
+    //     res.send("Obj: ", obj);
+    // })
 
 });
 

@@ -2,3 +2,73 @@
 [2023-01-30T15:19:16.166] [WARN] prod - Cannot redirect to /public/styles.css with method GET because is not implemented.
 [2023-01-30T15:19:28.487] [WARN] prod - Cannot redirect to /loginn with method GET because is not implemented.
 [2023-01-30T15:19:59.353] [WARN] prod - Cannot redirect to /loginn with method GET because is not implemented.
+[2023-02-01T16:44:50.033] [INFO] prod - Redirecting to /login with method GET.
+[2023-02-01T16:44:50.965] [INFO] prod - Redirecting to /login with method GET.
+[2023-02-01T16:44:51.076] [WARN] prod - Cannot redirect to /public/styles.css with method GET because is not implemented.
+[2023-02-01T16:44:51.778] [WARN] prod - Cannot redirect to /favicon.ico with method GET because is not implemented.
+[2023-02-01T16:44:55.044] [INFO] prod - Redirecting to /login with method GET.
+[2023-02-01T16:44:56.167] [WARN] prod - Cannot redirect to /public/styles.css with method GET because is not implemented.
+[2023-02-01T16:45:22.104] [INFO] prod - Redirecting to /login with method GET.
+[2023-02-01T16:45:22.172] [WARN] prod - Cannot redirect to /public/styles.css with method GET because is not implemented.
+[2023-02-01T16:45:44.547] [INFO] prod - Redirecting to /info with method GET.
+[2023-02-01T17:03:44.374] [INFO] prod - Redirecting to /info with method GET.
+[2023-02-01T17:03:44.384] [INFO] prod - Redirecting to /info with method GET.
+[2023-02-01T17:03:44.386] [INFO] prod - Redirecting to /info with method GET.
+[2023-02-01T17:03:44.388] [INFO] prod - Redirecting to /info with method GET.
+[2023-02-01T17:03:44.396] [INFO] prod - Redirecting to /info with method GET.
+[2023-02-01T17:03:44.397] [INFO] prod - Redirecting to /info with method GET.
+[2023-02-01T17:03:44.399] [INFO] prod - Redirecting to /info with method GET.
+[2023-02-01T17:03:44.400] [INFO] prod - Redirecting to /info with method GET.
+[2023-02-01T17:03:44.403] [INFO] prod - Redirecting to /info with method GET.
+[2023-02-01T17:03:44.409] [INFO] prod - Redirecting to /info with method GET.
+[2023-02-01T17:03:44.411] [INFO] prod - Redirecting to /info with method GET.
+[2023-02-01T17:03:44.413] [INFO] prod - Redirecting to /info with method GET.
+[2023-02-01T17:03:44.414] [INFO] prod - Redirecting to /info with method GET.
+[2023-02-01T17:03:44.416] [INFO] prod - Redirecting to /info with method GET.
+[2023-02-01T17:03:44.423] [INFO] prod - Redirecting to /info with method GET.
+[2023-02-01T17:03:44.426] [INFO] prod - Redirecting to /info with method GET.
+[2023-02-01T17:03:44.430] [INFO] prod - Redirecting to /info with method GET.
+[2023-02-01T17:03:44.432] [INFO] prod - Redirecting to /info with method GET.
+[2023-02-01T17:03:44.435] [INFO] prod - Redirecting to /info with method GET.
+[2023-02-01T17:03:44.437] [INFO] prod - Redirecting to /info with method GET.
+[2023-02-01T17:03:44.439] [INFO] prod - Redirecting to /info with method GET.
+[2023-02-01T17:03:44.440] [INFO] prod - Redirecting to /info with method GET.
+[2023-02-01T17:03:45.242] [INFO] prod - Redirecting to /info with method GET.
+[2023-02-01T17:03:45.285] [INFO] prod - Redirecting to /info with method GET.
+[2023-02-01T17:03:45.287] [INFO] prod - Redirecting to /info with method GET.
+[2023-02-01T17:11:48.215] [WARN] prod - Cannot redirect to /json/version with method GET because is not implemented.
+[2023-02-01T17:11:48.227] [WARN] prod - Cannot redirect to /json with method GET because is not implemented.
+[2023-02-01T17:11:50.246] [WARN] prod - Cannot redirect to /json/version with method GET because is not implemented.
+[2023-02-01T17:11:50.259] [WARN] prod - Cannot redirect to /json with method GET because is not implemented.
+[2023-02-01T17:12:01.451] [WARN] prod - Cannot redirect to /json/version with method GET because is not implemented.
+[2023-02-01T17:12:12.690] [WARN] prod - Cannot redirect to /json/version with method GET because is not implemented.
+[2023-02-01T17:12:12.702] [WARN] prod - Cannot redirect to /json with method GET because is not implemented.
+[2023-02-01T17:12:23.855] [WARN] prod - Cannot redirect to /json/version with method GET because is not implemented.
+[2023-02-01T17:12:23.868] [WARN] prod - Cannot redirect to /json with method GET because is not implemented.
+[2023-02-01T17:12:28.469] [WARN] prod - Cannot redirect to /json/version with method GET because is not implemented.
+[2023-02-01T17:12:28.482] [WARN] prod - Cannot redirect to /json with method GET because is not implemented.
+[2023-02-01T17:12:35.039] [WARN] prod - Cannot redirect to /json/version with method GET because is not implemented.
+[2023-02-01T17:12:35.050] [WARN] prod - Cannot redirect to /json with method GET because is not implemented.
+[2023-02-01T17:12:37.632] [WARN] prod - Cannot redirect to /json/version with method GET because is not implemented.
+[2023-02-01T17:12:37.644] [WARN] prod - Cannot redirect to /json with method GET because is not implemented.
+[2023-02-01T17:12:46.229] [WARN] prod - Cannot redirect to /json/version with method GET because is not implemented.
+[2023-02-01T17:12:46.240] [WARN] prod - Cannot redirect to /json with method GET because is not implemented.
+[2023-02-01T17:12:57.381] [WARN] prod - Cannot redirect to /json/version with method GET because is not implemented.
+[2023-02-01T17:13:08.553] [WARN] prod - Cannot redirect to /json/version with method GET because is not implemented.
+[2023-02-01T17:13:08.567] [WARN] prod - Cannot redirect to /json with method GET because is not implemented.
+[2023-02-01T17:13:19.707] [WARN] prod - Cannot redirect to /json/version with method GET because is not implemented.
+[2023-02-01T17:13:19.717] [WARN] prod - Cannot redirect to /json with method GET because is not implemented.
+[2023-02-01T17:13:30.908] [WARN] prod - Cannot redirect to /json/version with method GET because is not implemented.
+[2023-02-01T17:13:30.920] [WARN] prod - Cannot redirect to /json with method GET because is not implemented.
+[2023-02-01T17:13:42.080] [WARN] prod - Cannot redirect to /json/version with method GET because is not implemented.
+[2023-02-01T17:13:42.093] [WARN] prod - Cannot redirect to /json with method GET because is not implemented.
+[2023-02-01T17:13:53.244] [WARN] prod - Cannot redirect to /json/version with method GET because is not implemented.
+[2023-02-01T17:13:53.255] [WARN] prod - Cannot redirect to /json with method GET because is not implemented.
+[2023-02-01T17:14:04.433] [WARN] prod - Cannot redirect to /json/version with method GET because is not implemented.
+[2023-02-01T17:14:04.444] [WARN] prod - Cannot redirect to /json with method GET because is not implemented.
+[2023-02-01T17:14:15.639] [WARN] prod - Cannot redirect to /json/version with method GET because is not implemented.
+[2023-02-01T17:14:15.654] [WARN] prod - Cannot redirect to /json with method GET because is not implemented.
+[2023-02-01T17:14:26.783] [WARN] prod - Cannot redirect to /json/version with method GET because is not implemented.
+[2023-02-01T17:14:26.793] [WARN] prod - Cannot redirect to /json with method GET because is not implemented.
+[2023-02-01T17:14:37.953] [WARN] prod - Cannot redirect to /json/version with method GET because is not implemented.
+[2023-02-01T17:14:37.966] [WARN] prod - Cannot redirect to /json with method GET because is not implemented.
